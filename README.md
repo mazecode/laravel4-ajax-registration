@@ -16,4 +16,4 @@ Screenshots
 -----------
 
 <img src="http://i.imgur.com/3hmIaFj.png">
-<img src="http://i.imgur.com/RR05PHE.png">
+<img src="http://i.imgur.com/bgX8Vdq.png">
