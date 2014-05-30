@@ -11,3 +11,9 @@ It's using sqlite so you should be good to..
 `./artisan serve`
 
  and that's it. 
+
+Screenshots
+-----------
+
+<img src="http://i.imgur.com/3hmIaFj.png">
+<img src="http://i.imgur.com/RR05PHE.png">
