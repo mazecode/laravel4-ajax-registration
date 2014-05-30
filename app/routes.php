@@ -11,7 +11,5 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('hello');
-});
+Route::get('/', 'UsersController@create');
+Route::post('/a/username/', 'UsersController@username');
