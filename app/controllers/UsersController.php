@@ -2,15 +2,15 @@
 
 class UsersController extends \BaseController {
 
-	/**
-	 * Show the form for creating a new user.
-	 *
-	 * @return Response
-	 */
-	public function create()
-	{
+    /**
+     * Show the form for creating a new user.
+     *
+     * @return Response
+     */
+    public function create()
+    {
     return View::make('register');
-	}
+    }
 
   /**
    * Check if username exists
